@@ -1,0 +1,38 @@
+Static GUID distribution policy for mangosR2 branch
+Attention! If your use new GUID's scope for some creatures/objects - first define it his here.
+
+# Trial of the Crusaders
+Creature GUIDS 600000 - 600003
+# Event: Headless horseman
+Creature GUIDS 600004 - 600027
+# Icecrown Citadel
+Creature GUIDS 600028 - 600029
+# Ahn'kahet
+Creature GUIDS 600047 - 600113
+# Stratholme
+Creature GUIDS 600114 - 600125
+# Trial of the crusader
+Creature GUIDS 600126
+# Quest 11542/11543 
+Creature GUIDS 600127 - 600151
+# Quest 12813
+Creature GUIDS 600153 - 600154
+
+
+# Sunwell Plateau Doors
+Gameobject GUIDS 600000 - 600004
+# Ahn'kahet
+Gameobject GUIDS 600005
+# Quest 12470
+Gameobject GUIDS 600006 - 600012
+# Halls of Reflection - Captain Chest
+Gameobject GUIDS 600013 - 600016
+
+
+Custom creature_template ids used for scripting purposes. By far the wrong way but keep in mind.
+# Trial of the Crusader
+Ids 7 - 9
+# Stratholme
+Ids 10 - 15
+# Ruby Sanctum
+Ids 16
